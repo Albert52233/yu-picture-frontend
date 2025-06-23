@@ -1,4 +1,3 @@
-
 <template>
   <div id="globalHeader">
     <a-row :wrap="false">
@@ -6,7 +5,7 @@
         <router-link to="/">
           <div class="title-bar">
             <img class="logo" src="../assets/logo.png" alt="logo" />
-            <div class="title">鱼皮云图库</div>
+            <div class="title">祥云图库</div>
           </div>
         </router-link>
       </a-col>
